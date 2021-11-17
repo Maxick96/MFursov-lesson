@@ -1,4 +1,4 @@
-sec = float(input('Введите кол-во секунд: '))
+sec = float(input('Введите количество секунд: '))
 hour = sec//3600
 sec %= 3600
 minute = sec // 60

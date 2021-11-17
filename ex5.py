@@ -1,5 +1,5 @@
 vyr = float(input('Введите сумму выручки = '))
-izd = float(input('Введите сумму издеркжи = '))
+izd = float(input('Введите сумму издержек = '))
 sum = vyr - izd
 if vyr > izd:
     rent = sum/vyr
